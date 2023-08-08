@@ -33,10 +33,9 @@ namespace AutoBroadcast
       ""Name"": ""Example Broadcast"",
       ""Enabled"": false,
       ""Messages"": [
-        ""This is an example broadcast"",
-        ""It will broadcast every 5 minutes"",
-        ""Broadcasts can also execute commands"",
-        ""/time noon""
+        ""/ca"",
+	""Want to donate to Wanderer's Moon? Come donate here!: Paypal.me/WMADMIN1""
+ 	""Join our Discord and gain access to event notifications and more!: discord.gg/ZUuXHSaZpv""
       ],
       ""ColorRGB"": [
         255.0,
